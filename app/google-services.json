@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "419306665306",
+    "firebase_url": "https://trial-1a69b.firebaseio.com",
+    "project_id": "trial-1a69b",
+    "storage_bucket": "trial-1a69b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419306665306:android:0499f82cbdaaa5aa67ef63",
+        "android_client_info": {
+          "package_name": "com.example.helloworld40"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419306665306-kh4f2i29qcjvd9d5ivoj8ldceamgk1jn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLSAtpNw6EVREOgP_vX_NIkzPn1yGs_so"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419306665306-kh4f2i29qcjvd9d5ivoj8ldceamgk1jn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419306665306:android:f559e19e8861088667ef63",
+        "android_client_info": {
+          "package_name": "com.ui.furnituremagik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419306665306-kh4f2i29qcjvd9d5ivoj8ldceamgk1jn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLSAtpNw6EVREOgP_vX_NIkzPn1yGs_so"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419306665306-kh4f2i29qcjvd9d5ivoj8ldceamgk1jn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
